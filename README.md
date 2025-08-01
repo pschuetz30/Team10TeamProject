@@ -36,7 +36,7 @@ To add your own review or testimonial click here!
 <br>
 <br>
 To start your own contruction project check out our pricing options click here
-<a href = "MGMG 382 Project Pricing"></a> Download this file
+<a href = "MGMG 382 Project Pricing">Download this file</a> 
 <br>
 <br>
 To get quotes for new projects or have questions please email
