@@ -39,8 +39,8 @@ To start your own contruction project check out our pricing options click here
 <a href = "MGMG 382 Project Pricing"></a> Download this file
 <br>
 <br>
-To get quotes for new projects or have questions please email pschuetz@purdue.edu
-<a href = "mailto:pschuetz@purdue.edu"> </a>
+To get quotes for new projects or have questions please email
+<a href = "mailto:pschuetz@purdue.edu"> pschuetz@purdue.edu </a> 
 
 
 </body bgcolor = "black">
