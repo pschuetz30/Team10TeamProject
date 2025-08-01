@@ -29,6 +29,7 @@
 <u> Project: Back Deck</u>
 <br>
 We hired Tekton Construction to design and build a new back deck, and we couldn’t be happier with the results. From the start, their team was professional, responsive, and full of great design ideas. They helped us choose durable materials that matched our home’s exterior and offered suggestions that made the space feel more open—like adding built-in benches and subtle lighting. The crew worked quickly but carefully, cleaned up every day, and finished ahead of schedule. Now our deck is the highlight of our home—we use it for everything from quiet morning coffee to weekend barbecues. Highly recommend Tekton to anyone looking to upgrade their outdoor space!
+<img src = "back deck mgmt 382">
 <br>
 <br>
 To add your own review or testimonial click here!
