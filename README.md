@@ -33,6 +33,9 @@ We hired Tekton Construction to design and build a new back deck, and we couldnâ
 <br>
 To add your own review or testimonial click here!
 <a href= "http://support.google.com/maps/answer/6230175?hl=en&co=GENIE.Platform%3DDesktop" target = "_blank"> Google Reviews </a>
+<br>
+<br>
+To start your own contruction project check out our pricing options
 
 
 </body bgcolor = "black">
