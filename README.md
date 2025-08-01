@@ -44,7 +44,7 @@ To start your own contruction project check out our pricing options click here
 <br>
 To get quotes for new projects or have questions please email
 <a href = "mailto:pschuetz@purdue.edu"> pschuetz@purdue.edu </a> 
-
+<br>
 <script>document.write(document.lastModified);</script>
 </body bgcolor = "black">
 </html>
