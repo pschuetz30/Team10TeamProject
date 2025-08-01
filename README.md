@@ -35,8 +35,8 @@ To add your own review or testimonial click here!
 <a href= "http://support.google.com/maps/answer/6230175?hl=en&co=GENIE.Platform%3DDesktop" target = "_blank"> Google Reviews </a>
 <br>
 <br>
-To start your own contruction project check out our pricing options
-
+To start your own contruction project check out our pricing options click here
+<a href = "MGMG 382 Project Pricing"></a>
 
 </body bgcolor = "black">
 </html>
